@@ -1,0 +1,6 @@
+.border {
+  border: 3px solid #000;
+  border-radius: 5%;
+  padding: 30px;
+  text-align: center;
+}
